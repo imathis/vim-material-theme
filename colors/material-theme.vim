@@ -59,7 +59,6 @@ endif
 " Theme setup
 hi clear
 syntax reset
-let g:colors_name = "base16-materialtheme"
 
 " Highlighting function
 fun <sid>hi(group, guifg, guibg, ctermfg, ctermbg, attr)
